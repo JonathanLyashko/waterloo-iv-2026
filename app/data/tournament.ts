@@ -464,6 +464,9 @@ export const tournamentContent: TournamentContent = {
     {
       label: "Mohamed Lateef",
       role: "Equity Officer",
+      email: "mohlat8176@gmail.com",
+      discord: "mohlat223",
+      href: "mohlat8176@gmail.com",
     },
     {
       label: "To be Decided",
