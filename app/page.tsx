@@ -372,7 +372,7 @@ export default function Home() {
             title="Policies and Expectations"
             description="Tech, Equity, and Opt-Out policies will be released once confirmed by their organisers"
           >
-            <div className="grid gap-4">
+            <div className="grid gap-4 ">
               {policies.map((policy) => (
                 <DetailCard key={policy.title} item={policy} />
               ))}
